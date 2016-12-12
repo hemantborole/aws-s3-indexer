@@ -1,0 +1,2 @@
+{"dataBucket" : "hemant-hli", "logBucket": "hemant-hli"}
+{"dataBucket" : "hemant-log-enabled", "logBucket": "hemant-log-enabled"}

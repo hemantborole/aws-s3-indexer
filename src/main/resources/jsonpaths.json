@@ -1,0 +1,19 @@
+{
+  "jsonpaths":[
+    "$.BucketKey",
+    "$.VersionId",
+    "$.FileType",
+    "$.EpochTimestamp",
+    "$.ObjectSize",
+    "$.Etags",
+    "$.StorageType",
+    "$.BucketOwner",
+    "$.DateTimestamp",
+    "$.RemoteIp",
+    "$.Requester",
+    "$.RequestID",
+    "$.Operation",
+    "$.ApplicationName",
+    "$.ProcessingType"
+  ]
+}
